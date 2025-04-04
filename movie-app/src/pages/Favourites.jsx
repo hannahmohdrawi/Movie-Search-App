@@ -1,3 +1,4 @@
+import "../css/Favourites.css"
 
 export default function Favourites(){
     return (
