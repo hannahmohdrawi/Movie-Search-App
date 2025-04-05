@@ -12,7 +12,7 @@ A simple React-based movie search application that allows users to search for mo
 
 ## Preview
 
-![Home Page](./screenshots/home.png)
+![Home Page](./movieApp.png)
 
 ## 🛠 Tech Stack
 
